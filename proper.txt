@@ -1,0 +1,9 @@
+from numpy import *
+m= int(input("Enter Number of Rows: \n "))
+n= int(input("Enter Number of Columns: \n"))
+arr1= zeros((m,n), dtype=int)
+
+L= len(arr1)
+
+for i in range(L):
+    
