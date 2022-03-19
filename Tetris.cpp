@@ -1,6 +1,6 @@
 // compile
 // g++ tetris.cpp -o tetris -lncurses -lrt
-
+// I TRIED TO RUN THIS CODE FOR LEARNING PURPOSE. WAS NOT SUCCESSFULL.
 #include <iostream>
 #include <curses.h>
 #include <list>
