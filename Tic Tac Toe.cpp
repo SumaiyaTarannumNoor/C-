@@ -1,3 +1,5 @@
+//I TRIED T RUN THIS CODE FOR LEARNING PURPOSE.
+
 #include <iostream>
 using namespace std;
 
