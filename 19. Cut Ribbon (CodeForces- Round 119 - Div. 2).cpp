@@ -14,7 +14,9 @@ int main(){
             int z = (zc/(int)c);
             if (z ==(int)z)
                 if(x==y)
-                ans = max(ans,  y + z);
+                    ans = max(ans, x+z);
+                    break;
+                ans = max(ans, x + y + z);
         }
 
     }
